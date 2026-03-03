@@ -6,7 +6,7 @@
 - Encapsulación (private + getters/setters) y modificadores de acceso.
 - Constructores (`this`, constructor por defecto, sobrecarga).
 
-## Conceptos clave que debes manejar (nivel 2º semestre)
+## Conceptos clave que debes manejar
 
 **Clase vs objeto**
 - **Clase:** plantilla/molde (define atributos y métodos).
